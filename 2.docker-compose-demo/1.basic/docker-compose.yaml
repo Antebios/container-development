@@ -1,0 +1,5 @@
+# Reference: https://docs.docker.com/compose/compose-file/compose-file-v3/
+version: "3.8"
+services:
+  foo:
+    image: win-process1:latest
